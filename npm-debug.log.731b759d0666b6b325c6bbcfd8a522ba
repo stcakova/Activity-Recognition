@@ -1,0 +1,321 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'passport-http' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose node symlink /usr/bin/node
+5 verbose install initial load of /home/stsakova/workspace/todo/package.json
+6 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt/package.json
+7 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-angular-templates/package.json
+8 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-autoprefixer/package.json
+9 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-concurrent/package.json
+10 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-clean/package.json
+11 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-concat/package.json
+12 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-connect/package.json
+13 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-copy/package.json
+14 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-cssmin/package.json
+15 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-htmlmin/package.json
+16 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-imagemin/package.json
+17 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-jshint/package.json
+18 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-uglify/package.json
+19 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-contrib-watch/package.json
+20 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-filerev/package.json
+21 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-google-cdn/package.json
+22 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-karma/package.json
+23 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-newer/package.json
+24 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-ng-annotate/package.json
+25 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-svgmin/package.json
+26 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-usemin/package.json
+27 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/grunt-wiredep/package.json
+28 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/jasmine-core/package.json
+29 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/jit-grunt/package.json
+30 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/jshint-stylish/package.json
+31 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/karma/package.json
+32 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/karma-jasmine/package.json
+33 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/karma-phantomjs-launcher/package.json
+34 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/passport-http/package.json
+35 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/phantomjs/package.json
+36 verbose installManyTop reading scoped package data from /home/stsakova/workspace/todo/node_modules/time-grunt/package.json
+37 info package.json grunt@0.4.5 No license field.
+38 info package.json grunt-angular-templates@0.5.7 No license field.
+39 info package.json grunt-contrib-concat@0.5.1 No license field.
+40 info package.json grunt-contrib-clean@0.6.0 No license field.
+41 info package.json grunt-contrib-copy@0.7.0 No license field.
+42 info package.json grunt-contrib-cssmin@0.12.3 No license field.
+43 info package.json grunt-contrib-htmlmin@0.4.0 No license field.
+44 info package.json grunt-contrib-imagemin@0.9.4 No license field.
+45 info package.json grunt-contrib-connect@0.9.0 No license field.
+46 info package.json grunt-contrib-uglify@0.7.0 No license field.
+47 info package.json grunt-contrib-watch@0.6.1 No license field.
+48 info package.json grunt-filerev@2.3.1 license should be a valid SPDX license expression
+49 info package.json grunt-google-cdn@0.4.3 license should be a valid SPDX license expression
+50 info package.json grunt-svgmin@2.0.1 No license field.
+51 info package.json grunt-wiredep@2.0.0 No license field.
+52 info package.json passport-http@0.3.0 No license field.
+53 verbose readDependencies loading dependencies from /home/stsakova/workspace/todo/package.json
+54 verbose install passport-http is installed as 0.3.0
+55 silly cache add args [ 'passport-http', null ]
+56 verbose cache add spec passport-http
+57 silly cache add parsed spec { raw: 'passport-http',
+57 silly cache add   scope: null,
+57 silly cache add   name: 'passport-http',
+57 silly cache add   rawSpec: '',
+57 silly cache add   spec: '*',
+57 silly cache add   type: 'range' }
+58 silly addNamed passport-http@*
+59 verbose addNamed "*" is a valid semver range for passport-http
+60 silly addNameRange { name: 'passport-http', range: '*', hasData: false }
+61 silly mapToRegistry name passport-http
+62 silly mapToRegistry using default registry
+63 silly mapToRegistry registry https://registry.npmjs.org/
+64 silly mapToRegistry uri https://registry.npmjs.org/passport-http
+65 verbose addNameRange registry:https://registry.npmjs.org/passport-http not in flight; fetching
+66 verbose request uri https://registry.npmjs.org/passport-http
+67 verbose request no auth needed
+68 info attempt registry request try #1 at 15:19:51
+69 verbose request id 3ec4a54fe876e47a
+70 verbose etag "3CDSC10HA8MO4E7AIVYR0PF3T"
+71 http request GET https://registry.npmjs.org/passport-http
+72 http 304 https://registry.npmjs.org/passport-http
+73 silly get cb [ 304,
+73 silly get   { date: 'Tue, 13 Oct 2015 12:19:52 GMT',
+73 silly get     via: '1.1 varnish',
+73 silly get     'cache-control': 'max-age=60',
+73 silly get     etag: '"3CDSC10HA8MO4E7AIVYR0PF3T"',
+73 silly get     age: '0',
+73 silly get     connection: 'keep-alive',
+73 silly get     'x-served-by': 'cache-ams4146-AMS',
+73 silly get     'x-cache': 'HIT',
+73 silly get     'x-cache-hits': '1',
+73 silly get     'x-timer': 'S1444738792.081904,VS0,VE167',
+73 silly get     vary: 'Accept' } ]
+74 verbose etag https://registry.npmjs.org/passport-http from cache
+75 verbose get saving passport-http to /home/stsakova/.npm/registry.npmjs.org/passport-http/.cache.json
+76 silly addNameRange number 2 { name: 'passport-http', range: '*', hasData: true }
+77 silly addNameRange versions [ 'passport-http',
+77 silly addNameRange   [ '0.1.0',
+77 silly addNameRange     '0.1.1',
+77 silly addNameRange     '0.1.2',
+77 silly addNameRange     '0.1.3',
+77 silly addNameRange     '0.1.4',
+77 silly addNameRange     '0.2.0',
+77 silly addNameRange     '0.2.1',
+77 silly addNameRange     '0.2.2',
+77 silly addNameRange     '0.3.0' ] ]
+78 silly addNamed passport-http@0.3.0
+79 verbose addNamed "0.3.0" is a plain semver version for passport-http
+80 silly cache afterAdd passport-http@0.3.0
+81 verbose afterAdd /home/stsakova/.npm/passport-http/0.3.0/package/package.json not in flight; writing
+82 verbose afterAdd /home/stsakova/.npm/passport-http/0.3.0/package/package.json written
+83 silly install resolved [ { name: 'passport-http',
+83 silly install resolved     version: '0.3.0',
+83 silly install resolved     description: 'HTTP Basic and Digest authentication strategies for Passport.',
+83 silly install resolved     keywords:
+83 silly install resolved      [ 'passport',
+83 silly install resolved        'http',
+83 silly install resolved        'basic',
+83 silly install resolved        'digest',
+83 silly install resolved        'auth',
+83 silly install resolved        'authn',
+83 silly install resolved        'authentication' ],
+83 silly install resolved     repository:
+83 silly install resolved      { type: 'git',
+83 silly install resolved        url: 'git://github.com/jaredhanson/passport-http.git' },
+83 silly install resolved     bugs: { url: 'http://github.com/jaredhanson/passport-http/issues' },
+83 silly install resolved     author:
+83 silly install resolved      { name: 'Jared Hanson',
+83 silly install resolved        email: 'jaredhanson@gmail.com',
+83 silly install resolved        url: 'http://www.jaredhanson.net/' },
+83 silly install resolved     licenses: [ [Object] ],
+83 silly install resolved     main: './lib/passport-http',
+83 silly install resolved     dependencies: { 'passport-strategy': '1.x.x' },
+83 silly install resolved     devDependencies: { vows: '0.8.x' },
+83 silly install resolved     scripts: { test: 'NODE_PATH=lib node_modules/.bin/vows test/*-test.js test/**/*-test.js' },
+83 silly install resolved     engines: { node: '>= 0.4.0' },
+83 silly install resolved     gitHead: 'ec8c495d5db6b7180b5bf86364bfa0deb0e1a41d',
+83 silly install resolved     homepage: 'https://github.com/jaredhanson/passport-http',
+83 silly install resolved     _id: 'passport-http@0.3.0',
+83 silly install resolved     _shasum: '8ee53d4380be9c60df2151925029826f77115603',
+83 silly install resolved     _from: 'passport-http@*',
+83 silly install resolved     _npmVersion: '1.4.23',
+83 silly install resolved     _npmUser: { name: 'jaredhanson', email: 'jaredhanson@gmail.com' },
+83 silly install resolved     maintainers: [ [Object] ],
+83 silly install resolved     dist:
+83 silly install resolved      { shasum: '8ee53d4380be9c60df2151925029826f77115603',
+83 silly install resolved        tarball: 'http://registry.npmjs.org/passport-http/-/passport-http-0.3.0.tgz' },
+83 silly install resolved     directories: {},
+83 silly install resolved     _resolved: 'https://registry.npmjs.org/passport-http/-/passport-http-0.3.0.tgz',
+83 silly install resolved     readme: 'ERROR: No README data found!' } ]
+84 info install passport-http@0.3.0 into /home/stsakova/workspace/todo
+85 info installOne passport-http@0.3.0
+86 verbose installOne of passport-http to /home/stsakova/workspace/todo not in flight; installing
+87 verbose lock using /home/stsakova/.npm/_locks/passport-http-1f299afe27b2610a.lock for /home/stsakova/workspace/todo/node_modules/passport-http
+88 silly install write writing passport-http 0.3.0 to /home/stsakova/workspace/todo/node_modules/passport-http
+89 verbose unbuild node_modules/passport-http
+90 info preuninstall passport-http@0.3.0
+91 info uninstall passport-http@0.3.0
+92 verbose unbuild rmStuff passport-http@0.3.0 from /home/stsakova/workspace/todo/node_modules
+93 info postuninstall passport-http@0.3.0
+94 silly gentlyRm /home/stsakova/workspace/todo/node_modules/passport-http is being purged from base /home/stsakova/workspace/todo
+95 verbose gentlyRm don't care about contents; nuking /home/stsakova/workspace/todo/node_modules/passport-http
+96 silly vacuum-fs purging /home/stsakova/workspace/todo/node_modules/passport-http
+97 silly vacuum-fs quitting because other entries in /home/stsakova/workspace/todo/node_modules
+98 verbose tar unpack /home/stsakova/.npm/passport-http/0.3.0/package.tgz
+99 verbose tar unpacking to /home/stsakova/workspace/todo/node_modules/passport-http
+100 silly gentlyRm /home/stsakova/workspace/todo/node_modules/passport-http is being purged
+101 verbose gentlyRm don't care about contents; nuking /home/stsakova/workspace/todo/node_modules/passport-http
+102 silly gunzTarPerm modes [ '755', '644' ]
+103 silly gunzTarPerm extractEntry package.json
+104 silly gunzTarPerm extractEntry README.md
+105 silly gunzTarPerm extractEntry LICENSE
+106 silly gunzTarPerm extractEntry .travis.yml
+107 silly gunzTarPerm extractEntry lib/passport-http/index.js
+108 silly gunzTarPerm extractEntry lib/passport-http/strategies/basic.js
+109 silly gunzTarPerm extractEntry lib/passport-http/strategies/digest.js
+110 verbose write writing to /home/stsakova/workspace/todo/node_modules/passport-http/package.json
+111 info preinstall passport-http@0.3.0
+112 verbose readDependencies loading dependencies from /home/stsakova/workspace/todo/node_modules/passport-http/package.json
+113 silly prepareForInstallMany adding passport-strategy@1.x.x from passport-http dependencies
+114 verbose readDependencies loading dependencies from /home/stsakova/workspace/todo/node_modules/passport-http/package.json
+115 silly cache add args [ 'passport-strategy@1.x.x', null ]
+116 verbose cache add spec passport-strategy@1.x.x
+117 silly cache add parsed spec { raw: 'passport-strategy@1.x.x',
+117 silly cache add   scope: null,
+117 silly cache add   name: 'passport-strategy',
+117 silly cache add   rawSpec: '1.x.x',
+117 silly cache add   spec: '>=1.0.0 <2.0.0',
+117 silly cache add   type: 'range' }
+118 silly addNamed passport-strategy@>=1.0.0 <2.0.0
+119 verbose addNamed ">=1.0.0 <2.0.0" is a valid semver range for passport-strategy
+120 silly addNameRange { name: 'passport-strategy',
+120 silly addNameRange   range: '>=1.0.0 <2.0.0',
+120 silly addNameRange   hasData: false }
+121 silly mapToRegistry name passport-strategy
+122 silly mapToRegistry using default registry
+123 silly mapToRegistry registry https://registry.npmjs.org/
+124 silly mapToRegistry uri https://registry.npmjs.org/passport-strategy
+125 verbose addNameRange registry:https://registry.npmjs.org/passport-strategy not in flight; fetching
+126 verbose request uri https://registry.npmjs.org/passport-strategy
+127 verbose request no auth needed
+128 info attempt registry request try #1 at 15:19:51
+129 verbose etag "CUC5B53DTH7Q3IFJAK7U55MMR"
+130 http request GET https://registry.npmjs.org/passport-strategy
+131 http 304 https://registry.npmjs.org/passport-strategy
+132 silly get cb [ 304,
+132 silly get   { date: 'Tue, 13 Oct 2015 12:19:52 GMT',
+132 silly get     via: '1.1 varnish',
+132 silly get     'cache-control': 'max-age=60',
+132 silly get     etag: '"CUC5B53DTH7Q3IFJAK7U55MMR"',
+132 silly get     age: '59',
+132 silly get     connection: 'keep-alive',
+132 silly get     'x-served-by': 'cache-ams4123-AMS',
+132 silly get     'x-cache': 'HIT',
+132 silly get     'x-cache-hits': '1',
+132 silly get     'x-timer': 'S1444738792.576237,VS0,VE0',
+132 silly get     vary: 'Accept' } ]
+133 verbose etag https://registry.npmjs.org/passport-strategy from cache
+134 verbose get saving passport-strategy to /home/stsakova/.npm/registry.npmjs.org/passport-strategy/.cache.json
+135 silly addNameRange number 2 { name: 'passport-strategy',
+135 silly addNameRange   range: '>=1.0.0 <2.0.0',
+135 silly addNameRange   hasData: true }
+136 silly addNameRange versions [ 'passport-strategy', [ '1.0.0' ] ]
+137 silly addNamed passport-strategy@1.0.0
+138 verbose addNamed "1.0.0" is a plain semver version for passport-strategy
+139 silly cache afterAdd passport-strategy@1.0.0
+140 verbose afterAdd /home/stsakova/.npm/passport-strategy/1.0.0/package/package.json not in flight; writing
+141 verbose afterAdd /home/stsakova/.npm/passport-strategy/1.0.0/package/package.json written
+142 silly install resolved [ { name: 'passport-strategy',
+142 silly install resolved     version: '1.0.0',
+142 silly install resolved     description: 'An abstract class implementing Passport\'s strategy API.',
+142 silly install resolved     keywords: [ 'passport', 'strategy' ],
+142 silly install resolved     repository:
+142 silly install resolved      { type: 'git',
+142 silly install resolved        url: 'git://github.com/jaredhanson/passport-strategy.git' },
+142 silly install resolved     bugs: { url: 'http://github.com/jaredhanson/passport-strategy/issues' },
+142 silly install resolved     author:
+142 silly install resolved      { name: 'Jared Hanson',
+142 silly install resolved        email: 'jaredhanson@gmail.com',
+142 silly install resolved        url: 'http://www.jaredhanson.net/' },
+142 silly install resolved     licenses: [ [Object] ],
+142 silly install resolved     main: './lib',
+142 silly install resolved     dependencies: {},
+142 silly install resolved     devDependencies: { mocha: '1.x.x', chai: '1.x.x' },
+142 silly install resolved     engines: { node: '>= 0.4.0' },
+142 silly install resolved     scripts: { test: 'mocha --reporter spec --require test/bootstrap/node test/*.test.js' },
+142 silly install resolved     testling: { browsers: [Object], harness: 'mocha', files: [Object] },
+142 silly install resolved     readme: '# passport-strategy\n\n[![Build](https://travis-ci.org/jaredhanson/passport-strategy.png)](http://travis-ci.org/jaredhanson/passport-strategy)\n[![Coverage](https://coveralls.io/repos/jaredhanson/passport-strategy/badge.png)](https://coveralls.io/r/jaredhanson/passport-strategy)\n[![Dependencies](https://david-dm.org/jaredhanson/passport-strategy.png)](http://david-dm.org/jaredhanson/passport-strategy)\n\n\nAn abstract class implementing [Passport](http://passportjs.org/)\'s strategy\nAPI.\n\n## Install\n\n    $ npm install passport-strategy\n\n## Usage\n\nThis module exports an abstract `Strategy` class that is intended to be\nsubclassed when implementing concrete authentication strategies.  Once\nimplemented, such strategies can be used by applications that utilize Passport\nmiddleware for authentication.\n\n#### Subclass Strategy\n\nCreate a new `CustomStrategy` constructor which inherits from `Strategy`:\n\n```javascript\nvar util = require(\'util\')\n  , Strategy = require(\'passport-strategy\');\n\nfunction CustomStrategy(...) {\n  Strategy.call(this);\n}\n\nutil.inherits(CustomStrategy, Strategy);\n```\n\n#### Implement Authentication\n\nImplement `autheticate()`, performing the necessary operations required by the\nauthentication scheme or protocol being implemented.\n\n```javascript\nCustomStrategy.prototype.authenticate = function(req, options) {\n  // TODO: authenticate request\n}\n```\n\n## Tests\n\n    $ npm install\n    $ npm test\n\n## Credits\n\n  - [Jared Hanson](http://github.com/jaredhanson)\n\n## License\n\n[The MIT License](http://opensource.org/licenses/MIT)\n\nCopyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>\n',
+142 silly install resolved     readmeFilename: 'README.md',
+142 silly install resolved     _id: 'passport-strategy@1.0.0',
+142 silly install resolved     dist:
+142 silly install resolved      { shasum: 'b5539aa8fc225a3d1ad179476ddf236b440f52e4',
+142 silly install resolved        tarball: 'http://registry.npmjs.org/passport-strategy/-/passport-strategy-1.0.0.tgz' },
+142 silly install resolved     _from: 'passport-strategy@>=1.0.0 <2.0.0',
+142 silly install resolved     _npmVersion: '1.2.25',
+142 silly install resolved     _npmUser: { name: 'jaredhanson', email: 'jaredhanson@gmail.com' },
+142 silly install resolved     maintainers: [ [Object] ],
+142 silly install resolved     directories: {},
+142 silly install resolved     _shasum: 'b5539aa8fc225a3d1ad179476ddf236b440f52e4',
+142 silly install resolved     _resolved: 'https://registry.npmjs.org/passport-strategy/-/passport-strategy-1.0.0.tgz',
+142 silly install resolved     homepage: 'https://github.com/jaredhanson/passport-strategy#readme' } ]
+143 info install passport-strategy@1.0.0 into /home/stsakova/workspace/todo/node_modules/passport-http
+144 info installOne passport-strategy@1.0.0
+145 verbose installOne of passport-strategy to /home/stsakova/workspace/todo/node_modules/passport-http not in flight; installing
+146 verbose lock using /home/stsakova/.npm/_locks/passport-strategy-a76b2a2bd6ba4fd6.lock for /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy
+147 silly install write writing passport-strategy 1.0.0 to /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy
+148 verbose unbuild node_modules/passport-http/node_modules/passport-strategy
+149 silly gentlyRm /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy is being purged from base /home/stsakova/workspace/todo
+150 verbose gentlyRm don't care about contents; nuking /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy
+151 verbose tar unpack /home/stsakova/.npm/passport-strategy/1.0.0/package.tgz
+152 verbose tar unpacking to /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy
+153 silly gentlyRm /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy is being purged
+154 verbose gentlyRm don't care about contents; nuking /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy
+155 silly gunzTarPerm modes [ '755', '644' ]
+156 silly gunzTarPerm extractEntry package.json
+157 silly gunzTarPerm extractEntry README.md
+158 silly gunzTarPerm extractEntry LICENSE
+159 silly gunzTarPerm extractEntry .jshintrc
+160 silly gunzTarPerm extractEntry .travis.yml
+161 silly gunzTarPerm extractEntry lib/index.js
+162 silly gunzTarPerm extractEntry lib/strategy.js
+163 verbose write writing to /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy/package.json
+164 info preinstall passport-strategy@1.0.0
+165 verbose readDependencies loading dependencies from /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy/package.json
+166 verbose readDependencies loading dependencies from /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy/package.json
+167 silly install resolved []
+168 verbose about to build /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy
+169 info build /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy
+170 info linkStuff passport-strategy@1.0.0
+171 silly linkStuff passport-strategy@1.0.0 has /home/stsakova/workspace/todo/node_modules/passport-http/node_modules as its parent node_modules
+172 verbose linkBins passport-strategy@1.0.0
+173 verbose linkMans passport-strategy@1.0.0
+174 verbose rebuildBundles passport-strategy@1.0.0
+175 info install passport-strategy@1.0.0
+176 info postinstall passport-strategy@1.0.0
+177 verbose unlock done using /home/stsakova/.npm/_locks/passport-strategy-a76b2a2bd6ba4fd6.lock for /home/stsakova/workspace/todo/node_modules/passport-http/node_modules/passport-strategy
+178 verbose about to build /home/stsakova/workspace/todo/node_modules/passport-http
+179 info build /home/stsakova/workspace/todo/node_modules/passport-http
+180 info linkStuff passport-http@0.3.0
+181 silly linkStuff passport-http@0.3.0 has /home/stsakova/workspace/todo/node_modules as its parent node_modules
+182 verbose linkBins passport-http@0.3.0
+183 verbose linkMans passport-http@0.3.0
+184 verbose rebuildBundles passport-http@0.3.0
+185 verbose rebuildBundles [ 'passport-strategy' ]
+186 info install passport-http@0.3.0
+187 info postinstall passport-http@0.3.0
+188 verbose unlock done using /home/stsakova/.npm/_locks/passport-http-1f299afe27b2610a.lock for /home/stsakova/workspace/todo/node_modules/passport-http
+189 verbose validateInstall loading /home/stsakova/workspace/todo/package.json for validation
+190 verbose exit [ 0, true ]
+191 verbose stack Error: write EIO
+191 verbose stack     at exports._errnoException (util.js:746:11)
+191 verbose stack     at WriteWrap.afterWrite (net.js:775:14)
+192 verbose cwd /home/stsakova/workspace/todo
+193 error Linux 3.13.0-57-generic
+194 error argv "/usr/bin/node" "/usr/bin/npm" "install" "passport-http"
+195 error node v0.12.7
+196 error npm  v2.11.3
+197 error code EIO
+198 error errno EIO
+199 error syscall write
+200 error write EIO
+201 error If you need help, you may report this error at:
+201 error     <https://github.com/npm/npm/issues>
+202 verbose exit [ 1, true ]

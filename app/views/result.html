@@ -1,0 +1,19 @@
+<div>
+	<strong style="color:red">Test classification efficiency with different parameter supplied to K Nearest Neighbours</strong><br/><br/>
+	<input type="number" ng-model = "k" min="1" max="6" style="width:300px">
+	<button class="btn" ng-click="calculate()"> Submit </button>
+	<br/>
+	<br/>
+	<b>Movement type: </b>
+	<select ng-model="activity">
+	  <option value="Walking">Walking</option>
+	  <option value="Standing">Standing</option>
+	  <option value="Sitting">Sitting</option>
+	  <option value="Jogging">Jogging</option>
+	  <option value="Upstairs">Upstairs</option>
+	  <option value="Downstairs">Downstairs</option>
+	</select><br\><br\>
+	<br/>
+	<br/>
+	{{output}}
+</div>

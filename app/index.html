@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- build:css(.) styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css(.tmp) styles/main.css -->
+    <!-- endbuild -->
+  </head>
+  <body ng-app="activityRecognition">
+    
+   
+    <timeout></timeout>
+  
+    <div ui-view>
+    </div>   
+  </body>
+
+ <!-- build:js(.) scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="bower_components/lodash/lodash.js"></script>
+    <script src="bower_components/ng-lodash/build/ng-lodash.js"></script>
+    <!-- endbower -->
+
+        <!-- build:js({.tmp,app}) scripts/scripts.js -->
+        <script src="scripts/app.js"></script>
+        <script src="scripts/controllers/result.js"></script>
+        <script src="scripts/directives/timeout.js"></script>
+        <script src="scripts/services/LoadingTimer.js"></script>
+        <script src="scripts/services/InitializeData.js"></script>
+        <script src="scripts/services/fft/complex.js"></script>
+        <script src="scripts/services/fft/dft.js"></script>
+        <script src="scripts/services/fft/fft.js"></script>
+        <script src="scripts/services/fft/fftutil.js"></script>
+        <script src="scripts/services/fft/bit-twiddle.js"></script>
+        <script src="scripts/services/NoiseReductor.js"></script>
+        <script src="scripts/services/Preprocessor.js"></script>
+        <script src="scripts/services/Classification.js"></script>
+        <script src="scripts/services/KeyValues.js"></script>
+        <!-- endbuild -->
+</body>
+</html>
